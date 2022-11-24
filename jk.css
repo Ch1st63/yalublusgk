@@ -1,0 +1,1032 @@
+body{
+    background-color: black;
+}
+
+h1{
+    position: absolute;
+    width: 286px;
+    height: 91px;
+    left: 817px;
+    top: 40px;
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 81px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(90deg, #FFECD2 0%, #FCB69F 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+h2{
+    position: absolute;
+    width: 180px;
+    height: 46px;
+    left: 1350px;
+    top: 64px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a.button1{
+    text-decoration: none;
+    position: absolute;
+    width: 212px;
+    height: 20px;
+    left: 1585px;
+    top: 87px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h3{
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color:rgba(255, 236, 210, 1);
+}
+
+h4{
+    position: absolute;
+    width: 286px;
+    height: 91px;
+    left: 817px;
+    top: 1120px;
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 81px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(90deg, #FFECD2 0%, #FCB69F 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+}
+
+a.button2{
+    position: absolute;
+    width: 400px;
+    height: 120px;
+    left: 0px;
+    top: 1254px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    background: linear-gradient(90deg, #FFECD2 0%, #FCB69F 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text; 
+}
+
+a.button15{
+    position: absolute;
+    text-decoration: none;
+    width: 350px;
+    height: 120px;
+    left: 25px;
+    top: 1254px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(90deg, #FFECD2 0%, #FCB69F 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+a.button3{
+    position: absolute;
+    width: 207px;
+    height: 120px;
+    left: 96px;
+    top: 1374px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF; 
+}
+
+a.button4{
+    position: absolute;
+    width: 159px;
+    height: 120px;
+    left: 120px;
+    top: 1494px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+      
+}
+
+a.button5{
+    position: absolute;
+    width: 129px;
+    height: 120px;
+    left: 135px;
+    top: 1614px;
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a.button6{
+    position: absolute;
+    width: 105px;
+    height: 120px;
+    left: 147px;
+    top: 1734px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h5{
+    position: absolute;
+    width: 185px;
+    height: 60px;
+    left: 27px;
+    top: 2040px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h6{
+    position: absolute;
+    width: 184px;
+    height: 23px;
+    left: 28px;
+    top: 2100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+h7{
+    position: absolute;
+    width: 286px;
+    height: 91px;
+    left: 817px;
+    top: 2200px;
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 81px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(90deg, #FFECD2 0%, #FCB69F 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+h8{
+    position: absolute;
+    width: 40px;
+    height: 120px;
+    left: 173px;
+    top: 2330px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 104px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+h9{
+    position: absolute;
+    width: 356px;
+    height: 50px;
+    left: 22px;
+    top: 2450px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
+
+h10{
+    position: absolute;
+    width: 40px;
+    height: 120px;
+    left: 180px;
+    top: 2615px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 104px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h11{
+    position: absolute;
+    width: 293px;
+    height: 50px;
+    left: 53px;
+    top: 2735px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h12{
+    position: absolute;
+    width: 125px;
+    height: 120px;
+    left: 137px;
+    top: 2900px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 104px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+h13{
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 80px;
+    top: 3020px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+ 
+}
+
+h14{
+    position: absolute;
+    width: 185px;
+    height: 60px;
+    left: 27px;
+    top: 3130px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h15{
+    position: absolute;
+    width: 184px;
+    height: 23px;
+    left: 28px;
+    top: 3190px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+h16{
+    position: absolute;
+    width: 286px;
+    height: 91px;
+    left: 817px;
+    top: 3280px;
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 81px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(90deg, #FFECD2 0%, #FCB69F 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+a.button7{
+    position: absolute;
+    width: 205px;
+    height: 100px;
+    left: 110px;
+    top: 3396px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a.button8{
+    position: absolute;
+    width: 205px;
+    height: 100px;
+    left: 588px;
+    top: 3396px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a.button9{
+    position: absolute;
+    width: 205px;
+    height: 100px;
+    left: 1066px;
+    top: 3396px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a.button10{
+    text-decoration: none;
+    position: absolute;
+    width: 266px;
+    height: 100px;
+    left: 1544px;
+    top: 3396px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h21{
+    position: absolute;
+    width: 264px;
+    height: 90px;
+    left: 1218px;
+    top: 3591px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39px;
+    line-height: 48px;
+    text-align: center;
+    background: linear-gradient(90deg, #FFECD2 0%, #FCB69F 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+h22{
+    position: absolute;
+    width: 586px;
+    height: 263px;
+    left: 1057px;
+    top: 3696px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px; 
+    color: #FFFFFF;  
+}
+
+h23{
+    position: absolute;
+    width: 217px;
+    height: 20px;
+    left: 1241px;
+    top: 4071px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+h24{
+    position: absolute;
+    width: 286px;
+    height: 91px;
+    left: 817px;
+    top: 4360px;
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 81px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(90deg, #FFECD2 0%, #FCB69F 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+a.button11{
+    text-decoration: none;
+    position: absolute;
+    width: 425px;
+    height: 100px;
+    left: 110px;
+    top: 4476px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a.button12{
+    position: absolute;
+    width: 425px;
+    height: 100px;
+    left: 535px;
+    top: 4476px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a.button13{
+    text-decoration: none;
+    position: absolute;
+    width: 425px;
+    height: 100px;
+    left: 960px;
+    top: 4476px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF; 
+}
+
+a.button14{
+    text-decoration: none;
+    position: absolute;
+    width: 239px;
+    height: 100px;
+    left: 1471px;
+    top: 4476px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h25{
+    position: absolute;
+    width: 287px;
+    height: 41px;
+    left: 393px;
+    top: 4669px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h26{
+    position: absolute;
+    width: 287px;
+    height: 41px;
+    left: 1287px;
+    top: 4669px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;   
+    color: #FFFFFF;
+}
+
+h27{
+    position: absolute;
+    width: 220px;
+    height: 20px;
+    left: 850px;
+    top: 5186px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a.button16{
+    background: url('https://api.iconify.design/uil/vk.svg?color=%23ffecd2') no-repeat center center / contain;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 310px;
+    top: 2080px;
+}
+
+a.button17{
+    background: url('https://api.iconify.design/ic/outline-telegram.svg?color=%23ffecd2') no-repeat center center / contain;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 240px;
+    top: 2080px;
+}
+
+a.button18{
+    background: url('https://api.iconify.design/uil/vk.svg?color=%23ffecd2') no-repeat center center / contain;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 318px;
+    top: 3140px;
+}
+
+a.button19{
+    background: url('https://api.iconify.design/ic/outline-telegram.svg?color=%23ffecd2') no-repeat center center / contain;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 248px;
+    top: 3140px;
+}
+
+a.button20{
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    left: 41px;
+    top: 5400px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a.button21{
+    position: absolute;
+    width: 164px;
+    height: 60px;
+    left: 61px;
+    top: 5460px;    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;    
+    color: #FFFFFF;
+}
+
+a.button22{
+    position: absolute;
+    width: 124px;
+    height: 60px;
+    left: 81px;
+    top: 5520px; 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;  
+    color: #FFFFFF;
+}
+
+a.button23{
+    position: absolute;
+    width: 101px;
+    height: 60px;
+    left: 92px;
+    top: 5580px;  
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a.button24{
+    position: absolute;
+    width: 171px;
+    height: 60px;
+    left: 343px;
+    top: 5400px;   
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;    
+    color: #FFFFFF;
+}
+
+a.button25{
+    position: absolute;
+    width: 135px;
+    height: 60px;
+    left: 361px;
+    top: 5460px;  
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;   
+    color: #FFFFFF;
+}
+
+a.button26{
+    position: absolute;
+    width: 116px;
+    height: 60px;
+    left: 371px;
+    top: 5520px;   
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;   
+    color: #FFFFFF;
+}
+
+a.button27{
+    position: absolute;
+    width: 113px;
+    height: 60px;
+    left: 372px;
+    top: 5580px;   
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;   
+    color: #FFFFFF;
+    
+}
+
+a.button28{
+    position: absolute;
+    width: 124px;
+    height: 60px;
+    left: 653px;
+    top: 5400px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center; 
+    color: #FFFFFF;
+    
+}
+
+a.button29{
+    position: absolute;
+    width: 110px;
+    height: 60px;
+    left: 660px;
+    top: 5460px;   
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;   
+    color: #FFFFFF;
+    
+}
+
+a.button30{
+    position: absolute;
+    width: 102px;
+    height: 60px;
+    left: 664px;
+    top: 5520px;   
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;   
+    color: #FFFFFF;
+}
+
+h28{
+    position: absolute;
+    width: 273px;
+    height: 60px;
+    left: 1647px;
+    top: 5613px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.img1{
+    position: absolute;
+    width: 1420px;
+    height: 810px;
+    left: 400px;
+    top: 1300px;
+}
+
+.border-box1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 290px;
+    height: 95px;
+    left: 1550px;
+    top: 50px;
+    border: 2px solid #FFFFFF;
+}
+
+.border-box2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 290px;
+    height: 95px;
+    left: 1205px;
+    top: 4033px;   
+    border: 2px solid #FFFFFF;
+}
+.border-box3{
+    box-sizing: border-box;
+    position: absolute;       
+    width: 290px;
+    height: 95px;
+    left: 815px;
+    top: 5148px;
+    border: 2px solid #FFFFFF;
+}
+.border-box4{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1700px;
+    height: 700px;
+    left: 110px;
+    top: 3496px;
+    border: 3px solid #FFFFFF;
+}
+
+.border-box5{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1700px;
+    height: 700px;
+    left: 110px;
+    top: 4570px;
+    border: 3px solid #FFFFFF;
+}
+
+.img1{
+    position: absolute;
+    width: 1410px;
+    height: 839px;
+    left: 400px;
+    top: 1285px;
+}
+
+.img2{
+    position: absolute;
+    width: 1410px;
+    height: 839px;
+    left: 400px;
+    top: 2345px;
+}
+
+.img3{
+    position: absolute;
+    width: 710px;
+    height: 499px;
+    left: 180px;
+    top: 3591px;
+    border-radius:5px;
+}
+
+.img4{
+    position: absolute;
+    width: 513px;
+    height: 394px;
+    left: 280px;
+    top: 4727px;
+    border-radius: 5px; 
+}
+
+.img5{
+position: absolute;
+width: 513px;
+height: 394px;
+left: 1127px;
+top: 4727px;
+border-radius: 5px;
+}
